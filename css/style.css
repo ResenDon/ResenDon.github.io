@@ -1,0 +1,40 @@
+p{
+
+
+	color: red;
+	
+	border: 1px solid black;
+}
+
+
+
+li{
+
+	color: red;
+	font-size: 16px;
+	line-height: 2;
+	letter-spacing: 5px;
+}
+
+img{
+
+	margin-top: 50px;
+}
+
+h1{
+
+	font-size: 30px;
+	text-align: center;
+}
+
+html{
+
+	text-align: center;
+}
+
+body{
+
+	background-color: #FF9500;
+	margin:  50px 50px 50px 50px;
+
+}
